@@ -1,0 +1,5 @@
+api_url: "http://127.0.0.1:8081/v1/chat/completions"
+model_name: "uncensored-local"
+history_file: "chat_history.json"
+max_tokens: 512
+timeout: 120.0
