@@ -102,6 +102,7 @@ chat_history.json
 ```
 
 ## Project structure
+```text
 ├── config.yaml
 ├── main.py
 ├── pyproject.toml
@@ -113,3 +114,4 @@ chat_history.json
         ├── config.py
         ├── history.py
         └── llm_client.py
+```
